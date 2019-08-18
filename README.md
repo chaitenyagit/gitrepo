@@ -1,1 +1,3 @@
-# gitrepo
+# maven-project
+
+Simple Maven Project
